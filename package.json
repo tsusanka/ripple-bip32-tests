@@ -1,7 +1,7 @@
 {
   "name": "ripple-bip32-tests",
   "version": "0.1.0",
-  "description": "ripple test vectors for trezor",
+  "description": "Simple tool to create test vectors for ripple transactions with bip32 keys",
   "main": "index.js",
   "dependencies": {
     "bip39": "^2.3.1",
