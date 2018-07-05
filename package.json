@@ -1,0 +1,17 @@
+{
+  "name": "ripple-bip32-tests",
+  "version": "0.1.0",
+  "description": "ripple test vectors for trezor",
+  "main": "index.js",
+  "dependencies": {
+    "bip39": "^2.3.1",
+    "ripple-sign-keypairs": "*",
+    "ripple-bip32": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsusanka/ripple-bip32-tests.git"
+  },
+  "author": "Tomas Susanka",
+  "license": "MIT"
+}
